@@ -1,0 +1,15 @@
+.inbox-container {
+  width: 100%;
+}
+
+.subtitle {
+  color: #666;
+  margin-bottom: 1.5rem;
+}
+
+.query-count {
+  margin-bottom: 1rem;
+  color: #666;
+  font-size: 0.9rem;
+}
+
